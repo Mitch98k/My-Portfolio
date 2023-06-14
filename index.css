@@ -1,0 +1,29 @@
+html {
+    text-align: center;
+}
+.nav {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+.anchor {
+    background-color: blue;
+    width: 5%;
+    padding: 10px;
+    border: solid black 2px;
+    margin: 20px;
+    box-shadow: 1px 2px;
+}
+
+.anchor a {
+    color: white;
+    text-decoration: none;
+}
+
+.anchor a:hover {
+    color: red;
+}
+
+#articles article {
+    visibility: hidden;
+}
