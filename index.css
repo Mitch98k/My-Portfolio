@@ -1,11 +1,21 @@
 html {
     text-align: center;
 }
+
+#header {
+    height: 30vh;
+    margin-bottom: 5vh;
+    background-image: url(/assets/felix-mittermeier-L4-16dmZ-1c-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw;
+}
+
 .nav {
     margin-bottom: 10px;
     display: flex;
     justify-content: center;
 }
+
 .anchor {
     background-color: blue;
     width: 5%;
@@ -25,5 +35,6 @@ html {
 }
 
 #articles article {
-    visibility: hidden;
+    border: solid grey 2px;
+    margin: 2%;
 }
