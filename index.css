@@ -4,6 +4,7 @@ html {
 
 #header {
     height: 30vh;
+    width: 100%;
     margin-bottom: 5vh;
     background-image: url(/assets/felix-mittermeier-L4-16dmZ-1c-unsplash.jpg);
     background-repeat: no-repeat;
@@ -34,7 +35,13 @@ html {
     color: red;
 }
 
-#articles article {
-    border: solid grey 2px;
+#articles {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.article {
+    border: solid black 5px;
     margin: 2%;
+    width: 20%;
 }
