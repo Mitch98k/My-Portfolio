@@ -5,7 +5,7 @@ let articleContentArray = [{
     title: 'DnD Character Creator',
     content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Libero id faucibus nisl tincidunt eget. Mattis enim ut tellus elementum sagittis vitae et. Volutpat diam ut venenatis tellus in metus vulputate eu. In dictum non consectetur a erat. Ultricies mi eget mauris pharetra et ultrices. Vestibulum morbi blandit cursus risus at. Lacinia at quis risus sed vulputate odio ut. Sit amet luctus venenatis lectus. Lectus arcu bibendum at varius. Amet venenatis urna cursus eget nunc. Blandit aliquam etiam erat velit scelerisque. Donec pretium vulputate sapien nec sagittis aliquam malesuada.',
     id: 'DnD',
-    link: ''
+    link: '/dnd'
 },
 {
     title: 'NASA Photo of the Day',
